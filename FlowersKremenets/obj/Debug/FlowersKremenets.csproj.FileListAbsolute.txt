@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Курсова\FlowersKremenets\FlowersKremenets\bin\Debug\FlowersKremenets.exe.config
+C:\Users\User\Desktop\Курсова\FlowersKremenets\FlowersKremenets\bin\Debug\FlowersKremenets.exe
+C:\Users\User\Desktop\Курсова\FlowersKremenets\FlowersKremenets\bin\Debug\FlowersKremenets.pdb
+C:\Users\User\Desktop\Курсова\FlowersKremenets\FlowersKremenets\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Курсова\FlowersKremenets\FlowersKremenets\bin\Debug\Telegram.Bot.dll
+C:\Users\User\Desktop\Курсова\FlowersKremenets\FlowersKremenets\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Курсова\FlowersKremenets\FlowersKremenets\bin\Debug\Telegram.Bot.xml
+C:\Users\User\Desktop\Курсова\FlowersKremenets\FlowersKremenets\obj\Debug\FlowersKremenets.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Курсова\FlowersKremenets\FlowersKremenets\obj\Debug\FlowersKremenets.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Курсова\FlowersKremenets\FlowersKremenets\obj\Debug\FlowersKremenets.exe
+C:\Users\User\Desktop\Курсова\FlowersKremenets\FlowersKremenets\obj\Debug\FlowersKremenets.pdb
